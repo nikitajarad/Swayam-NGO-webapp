@@ -304,3 +304,39 @@ filter:contrast(150%);
         text-align: center;
     }
 }
+
+
+.contact .info {
+  padding: 20px 40px;
+  background: linear-gradient(-135deg, rgba(30, 88, 146, 0.795), #5acee2);  color: #131313;
+  text-align: center;
+  border: 1px solid #fff;
+}
+
+.contact .info i {
+  font-size: 30px;
+  color: #0a235a;
+  margin-bottom: 15px;
+}
+
+.contact .info h4 {
+  padding: 0;
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+}
+
+.contact .info p {
+  font-size: 15px;
+}
+
+.rounded-cor{
+  border-radius: 50px;
+  color: rgb(8, 38, 71);
+}
+.btn-danger
+{
+  color: #001a66;
+}
